@@ -1,0 +1,201 @@
+@keyframes border-animate {
+    0%{
+        transform: rotate(0deg);
+    }
+    50%{
+        transform: rotate(90deg);
+    }
+    75%{
+        transform: rotate(180deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+.all-img{
+    width:100%;
+    height:380px;
+    text-align: center;
+}
+.item-img{
+    width:100%;
+    height:100%;
+    object-fit: cover;
+    border-radius: 50%;
+    padding:50px;
+}
+.latest-pro{
+    text-align: center;
+    background-color: rgb(255, 255, 255);
+    color : #fff;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50px;
+}
+.latest-text{
+    font-size: 30px;
+    font-weight: 600;
+    position: relative;
+    z-index: 100;
+    color:#000;
+    font-family: 'Josefin Sans', sans-serif;
+    padding: 8px;
+    margin:0;
+}
+.latest-pro::before{
+    content: "";
+    position: absolute;
+    width:1500px;
+    height: 100%;
+    background: linear-gradient(#7c7c7c,#000000);
+    animation-name: border-animate;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.latest-pro::after{
+    content: "";
+    position: absolute;
+    background-color: #fff;
+    inset: 4px;
+    border-radius: 50px;
+}
+.first-banner{
+    text-align: center;
+}
+
+.par-img{
+    width:100%;
+    height:60vh;
+    object-fit: cover;
+}
+.brand-sec{
+    text-align: center;
+}
+.brand-one{
+    font-size: 28px;
+    font-weight: 500;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.brand-second{
+    font-size: 35px;
+    font-weight: 600;
+    font-family: 'Rajdhani', sans-serif;
+}
+.poster-img{
+    width:100%;
+    height:auto;
+}
+.logo-all{
+    text-align: center;
+}
+.all-logo{
+    width:70%;
+    height:50px;
+}
+.promo-sec{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50px;
+}
+.promo-text{
+    position: relative;
+    font-family: 'Josefin Sans', sans-serif;
+    color:#000;
+    z-index: 100;
+    margin:0;
+    padding: 8px;
+    font-size: 30px;
+    font-weight: 600;
+}
+.promo-sec::before{
+    content: "";
+    position: absolute;
+    background: linear-gradient(#7c7c7c,#000000);
+    width:1500px;
+    height: 100%;
+    animation-name: border-animate;
+    animation-duration: 6s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+.promo-sec::after{
+    content: "";
+    position: absolute;
+    background-color: #fff;
+    inset: 4px;
+    border-radius: 50px;
+}
+.promo-img{
+    width:100%;
+    height:auto;
+}
+.offer-img{
+    width:100%;
+    height:auto;
+}
+.hm-lower{
+    background-color: #cbcbcb60;
+    padding: 60px 0;
+}
+.magazine{
+    text-align: center;
+}
+.maga-first{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+.maga-second{
+    font-family: 'Rajdhani', sans-serif;
+    margin-top:-20px;
+    margin-bottom:80px;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+.fac-icon{
+    text-align: center;
+}
+.fac-img{
+    width:30px;
+    height:30px;
+}
+.fac-name{
+    text-align: center;
+}
+.fac-det{
+    font-family: 'Rajdhani', sans-serif;
+}
+.brand-set{
+    text-align: center!important;
+}
+@media(max-width:768px){
+    .fac-det{
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 14px;
+    }
+    .all-logo{
+        width:70%;
+        height:70px;
+    }
+}
+@media(max-width:550px){
+    .fac-det{
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 12px;
+    }
+}
+@media(max-width:426px){
+    .par-img{
+        width:100%;
+        height:30vh;
+        object-fit: cover;
+    }
+}

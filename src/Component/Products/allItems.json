@@ -1,0 +1,75 @@
+{
+    "allitems" : [
+        {
+            "id" : "S01",
+            "item_name" : "Sarees",
+            "item_img" : "https://images.pexels.com/photos/13408308/pexels-photo-13408308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+
+        {
+            "id" : "S02",
+            "item_name" : "Sarees",
+            "item_img" : "https://images.pexels.com/photos/7829303/pexels-photo-7829303.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+
+        {
+            "id" : "S03",
+            "item_name" : "Sarees",
+            "item_img" : "https://images.pexels.com/photos/9107286/pexels-photo-9107286.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+
+        {
+            "id" : "S16",
+            "item_name" : "Salwar Suits",
+            "item_img" : "https://images.pexels.com/photos/5393292/pexels-photo-5393292.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+
+        {
+            "id" : "S17",
+            "item_name" : "Salwar Suits",
+            "item_img" : "https://images.pexels.com/photos/12894436/pexels-photo-12894436.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+
+        {
+            "id" : "S18",
+            "item_name" : "Salwar Suits",
+            "item_img" : "https://images.pexels.com/photos/12634983/pexels-photo-12634983.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        },
+
+        {
+            "id" : "S27",
+            "item_name" : "Wedding Collections",
+            "item_img" : "https://images.pexels.com/photos/12747874/pexels-photo-12747874.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+
+        {
+            "id" : "S28",
+            "item_name" : "Wedding Collections",
+            "item_img" : "https://images.pexels.com/photos/12696380/pexels-photo-12696380.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+
+        {
+            "id" : "S39",
+            "item_name" : "Sandals",
+            "item_img" : "https://images.unsplash.com/photo-1578847857503-bed61186a57a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDR8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+        },
+
+        {
+            "id" : "S40",
+            "item_name" : "Sandals",
+            "item_img" : "https://images.unsplash.com/photo-1579727027525-352607d8dc49?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+        },
+
+        {
+            "id" : "S53",
+            "item_name" : "Jewellery",
+            "item_img" : "https://images.pexels.com/photos/11779023/pexels-photo-11779023.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        },
+
+        {
+            "id" : "S54",
+            "item_name" : "Jewellery",
+            "item_img" : "https://images.pexels.com/photos/13915494/pexels-photo-13915494.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        }
+    ]
+}

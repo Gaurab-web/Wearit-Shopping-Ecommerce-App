@@ -1,0 +1,27 @@
+.check-btn{
+    text-align: right;
+}
+.pic-check{
+    width:100%;
+    height: 900px;
+    object-fit: cover;
+}
+.right-sec-check{
+    padding:0!important;
+}
+.place-field{
+    font-family: 'Rajdhani', sans-serif!important;
+    font-weight: 600;
+}
+.check-pro{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.form-check-input:checked{
+    background-color: #000!important;
+    border-color: #000!important;
+}
+@media(max-width:991px){
+    .right-sec-check{
+        display: none;
+    }
+}

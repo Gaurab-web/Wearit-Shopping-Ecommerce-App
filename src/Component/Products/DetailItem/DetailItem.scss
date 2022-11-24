@@ -1,0 +1,256 @@
+
+.detail-img{
+    width:100%;
+    height:auto;
+    object-fit: cover;
+}
+
+.list-photo{
+    flex-direction: column;
+}
+.list-img{
+    width:100%;
+    height:152px;
+    object-fit: cover;
+}
+.de-pic-1{
+    display: none!important;
+}
+.short-img{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+.list-img:hover{
+    box-shadow: 0 0 10px #000;
+}
+.main-img{
+    margin-left: -150px;
+    height: fit-content;
+}
+.detail-sec{
+    margin-top: 80px!important;
+}
+.cato-name{
+    font-size:35px;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(107, 107, 107);
+}
+.sub-name{
+    font-size:40px;
+    font-family: 'Rajdhani', sans-serif;
+}
+.rating-num{
+    font-size: 18px;
+    vertical-align: text-top;
+    font-weight: 600;
+}
+.pro-price{
+    font-size: 45px;
+    font-weight: 600;
+}
+.off-price{
+    font-size: 18px;
+    color: #068743;
+}
+.mrp-sec{
+    font-size: 15px;
+    color: rgb(107, 107, 107);
+    font-family: 'Josefin Sans', sans-serif;
+}
+.cut-price{
+    text-decoration: line-through;
+}
+.detail-product{
+    font-size: 25px!important;
+    font-weight: 700!important;
+}
+.pro-desc{
+    font-family: 'Rajdhani', sans-serif;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+}
+.quant-sec{
+    background-color: rgb(54, 54, 54);
+    padding:15px 30px;
+    border-radius: 30px;
+}
+.quant{
+    text-align: right;
+}
+.quantity{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top:5px;
+    color:#fff
+}
+.quant-num{
+    display: inline-block;
+    border:1px solid #aaa;
+    width:52px;
+    height:34px;
+    padding:2px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    text-align: center;
+    color:#fff
+}
+.incre{
+    display: inline-block;
+    border:1px solid #aaa;
+    width:34px;
+    height:34px;
+    border-radius: 50%;
+    font-size: 16px;
+    padding:3px 10px;
+    text-align: center;
+    color:#fff
+}
+.incre:hover{
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    color:rgb(54, 54, 54);
+}
+.detail-lower{
+    margin-top:30px!important;
+    margin-bottom:10px;
+    border-bottom: 1px solid #aaa;
+    padding-bottom:30px;
+}
+.or-sec{
+    text-align: center;
+    font-family: 'Rajdhani', sans-serif;
+    margin:0;
+    margin-top:-22px;
+}
+.bag{
+    margin-top:-5px;
+}
+.buy-btn{
+    margin-top: -3px;
+}
+.delivery-sec{
+    flex-direction: column;
+}
+.deli-head{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+.truck-icon{
+    font-weight: 0;
+}
+.deli-icon{
+    font-size: 30px;
+    color: rgb(107, 107, 107);
+}
+.deli-details{
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+}
+
+@media(max-width:1199px){
+    .list-img{
+        width:100%;
+        height:122px;
+        object-fit: cover;
+    }
+}
+
+@media(max-width:991px){
+    .detail-sec{
+        flex-direction: column;
+        align-items: center;
+    }
+    .de-pic{
+        display: none!important;
+    }
+    .de-pic-1{
+        display: initial!important;
+    }
+    .for-small{
+        margin-bottom: 20px;
+    }
+    .detail-sec{
+        margin-top: 30px!important;
+    }
+}
+
+@media(max-width:768px){
+    .cato-name{
+        font-size:28px;
+    }
+    .sub-name{
+        font-size:30px;
+    }
+    .rating-num{
+        font-size: 17px;
+    }
+    .pro-price{
+        font-size: 38px;
+    }
+    .off-price{
+        font-size: 16px;
+    }
+    .mrp-sec{
+        font-size: 13px;
+    }
+    .cut-price{
+        text-decoration: line-through;
+    }
+    .detail-product{
+        font-size: 20px!important;
+    }
+    .deli-head{
+        font-size: 20px;
+    }
+    .deli-icon{
+        font-size: 25px;
+    }
+    .deli-details{
+        font-size: 15px;
+    }
+    .de-btn{
+        font-size: 14px;
+    }
+}
+
+@media(max-width:460px){
+    .cato-name{
+        font-size:24px;
+    }
+    .sub-name{
+        font-size:25px;
+    }
+    .rating-num{
+        font-size: 14px;
+    }
+    .pro-price{
+        font-size: 34px;
+    }
+    .off-price{
+        font-size: 14px;
+    }
+    .mrp-sec{
+        font-size: 11px;
+    }
+    .detail-product{
+        font-size: 18px!important;
+    }
+    .pro-desc{
+        font-size: 14px;
+    }
+    .deli-head{
+        font-size: 18px;
+    }
+    .deli-icon{
+        font-size: 22px;
+    }
+    .deli-details{
+        font-size: 12px;
+    }
+    .de-btn{
+        font-size: 14px!important;
+    }
+}

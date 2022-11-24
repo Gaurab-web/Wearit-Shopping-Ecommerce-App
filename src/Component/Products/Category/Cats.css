@@ -1,0 +1,31 @@
+.cat-head{
+    text-align: center;
+    border-bottom: 1px solid rgb(163, 163, 163);
+    font-family: 'Josefin Sans', sans-serif;
+}
+.card-para{
+    color:#000;
+}
+.card{
+    height:600px!important;
+    border:0px!important;
+}
+.card-img{
+    height:100%;
+    object-fit: cover;
+    opacity: 0.6!important;
+}
+.card-img-overlay{
+    display: flex!important;
+    flex-direction: column!important;
+    align-items: center!important;
+    justify-content: center!important;
+}
+.card-title{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size:50px!important;
+    text-align: center;
+}
+.cloth-sec{
+    height:auto!important;
+}

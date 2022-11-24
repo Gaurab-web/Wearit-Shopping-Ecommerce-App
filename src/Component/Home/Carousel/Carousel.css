@@ -1,0 +1,18 @@
+.caro-img{
+    height : 85vh;
+    object-fit: cover;
+}
+.carousel-indicators{
+    display: none!important;
+}
+.carousel-inner{
+    border:0px!important;
+}
+@media(max-width:576px){
+    .caro-img{
+        height: 30vh;
+    }
+}
+.carousel{
+    border: 0px;
+}

@@ -1,0 +1,1105 @@
+.ab-ban {
+    width: 100%;
+    height: 83vh;
+    object-fit: cover;
+}
+
+.wave-img {
+    width: 100%;
+    height: auto;
+    margin-top: -80px;
+}
+
+.head-part {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    margin-top: 100px;
+    text-transform: uppercase;
+}
+
+.tail-part {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 18px;
+}
+
+.ab-img {
+    width: 100%;
+    height: auto;
+}
+
+.main-head {
+    text-align: center;
+}
+
+.head-main {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    letter-spacing: 3px;
+}
+
+.founder-sec {
+    margin-top: 40px !important;
+    margin-bottom: 40px !important;
+}
+
+.fnd-img {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.fnd-det {
+    margin-top: 100px;
+    text-align: right;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 30px;
+}
+
+.fnd-name {
+    text-align: right;
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.next-part {
+    margin-top: 100px !important;
+    margin-bottom: 100px !important;
+}
+
+.next-head {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    text-align: center;
+}
+
+.next-img-sec {
+    width: 100%;
+    height: auto;
+    margin-top: 150px;
+}
+
+.next-del {
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 30px;
+    text-align: left;
+}
+
+.ceo-sec {
+    text-align: center;
+    background-color: rgba(204, 204, 204, 0.438);
+    padding: 30px 0;
+}
+
+.quote {
+    font-size: 80px;
+}
+
+.qu-li-1 {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.line-main {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35px;
+}
+
+.author {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600;
+}
+
+.why-head {
+    text-align: center;
+}
+
+.head-why {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+.head-det {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.wht-one {
+    width: 100%;
+    height: auto;
+}
+
+.wht-img-2 {
+    text-align: right;
+}
+
+.img-mar {
+    margin-left: 90px !important;
+}
+
+.fyc-sec {
+    margin-top: 90px !important;
+    margin-bottom: 90px !important;
+}
+
+.fyc-head {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.fyc-det {
+    font-family: 'Rajdhani', sans-serif;
+    letter-spacing: 1px;
+}
+
+.find-your-content {
+    text-align: center;
+}
+
+.fyc-img {
+    width: 100%;
+    height: auto;
+}
+
+.fyc-btn {
+    background-color: rgb(19, 19, 19);
+    color: #fff;
+    width: 250px;
+    margin: 30px auto;
+    padding: 15px 60px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.map-part {
+    flex-direction: column;
+}
+
+.map-sec {
+    text-align: center;
+}
+
+.map-head {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.map-det {
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.map-img {
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.map-sec {
+    width: 100%;
+    height: auto;
+}
+
+.wwu-sec {
+    text-align: center;
+}
+
+.wwu-btn {
+    background-color: rgb(19, 19, 19);
+    color: #fff;
+    width: 250px;
+    margin: auto;
+    padding: 15px 60px;
+    font-family: 'Josefin Sans', sans-serif
+}
+
+.head-wwu {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.head-det {
+    margin-bottom: 50px;
+}
+
+.brand-sec-1 {
+    text-align: center;
+    background-color: rgba(204, 204, 204, 0.438);
+    padding: 50px;
+}
+
+.head-brand {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.img-brand {
+    width: 100%;
+    height: auto;
+}
+
+.phone-sec {
+    margin-top: 80px !important;
+}
+
+.get-know-head {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.get-know {
+    text-align: right;
+    margin-top: 130px;
+}
+
+.get-know-det {
+    font-family: 'Rajdhani', sans-serif;
+    letter-spacing: 1px;
+    font-size: 17px;
+}
+
+.get-img {
+    width: 100%;
+    height: auto;
+}
+
+.follow-btn {
+    text-align: center;
+}
+
+.follow-us-btn {
+    background-color: rgb(19, 19, 19);
+    color: #fff;
+    width: 250px;
+    margin: 60px auto;
+    padding: 15px 60px;
+    font-family: 'Josefin Sans', sans-serif
+}
+
+.sup-sec {
+    text-align: center;
+}
+
+.support-us {
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+
+.head-sup {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.det-sup {
+    font-family: 'Rajdhani', sans-serif;
+    letter-spacing: 1px;
+}
+
+.img-sup {
+    width: 100%;
+    height: auto;
+}
+
+.leader-head {
+    text-align: center;
+}
+
+.head-lead {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+.quote-sec {
+    text-align: center;
+    margin-bottom: 30px;
+    opacity: 0.6;
+}
+
+.img-ceo {
+    width: 100%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.ceo-state {
+    text-align: right;
+}
+
+.ceo-sign {
+    text-align: center;
+}
+
+.statement {
+    font-family: 'Rajdhani', sans-serif;
+    letter-spacing: 1px;
+}
+
+.auth-by {
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+}
+
+.ceo-msg {
+    margin-top: 50px;
+}
+
+.extra-link {
+    text-decoration: none;
+}
+
+.fyc-btn:hover {
+    background-color: rgb(46, 46, 46);
+}
+
+.wwu-btn:hover {
+    background-color: rgb(46, 46, 46);
+}
+
+@media(max-width:1199px) {
+    .head-part {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 26px;
+        font-weight: 600;
+        margin-top: 100px;
+        text-transform: uppercase;
+    }
+
+    .tail-part {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 15px;
+    }
+
+    .head-main {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 45px;
+        font-weight: 600;
+        letter-spacing: 3px;
+    }
+
+    .fnd-det {
+        margin-top: 44px;
+        text-align: right;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 16px;
+        letter-spacing: 1px;
+        line-height: 30px;
+    }
+
+    .fnd-name {
+        text-align: right;
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 23px;
+        font-weight: 600;
+    }
+
+    .next-head {
+        font-size: 40px;
+        letter-spacing: 3px;
+    }
+
+    .head-why {
+        font-size: 45px;
+        letter-spacing: 3px;
+    }
+    
+    .head-det {
+        font-family: 'Rajdhani', sans-serif;
+    }
+
+    .fyc-head {
+        font-size: 45px;
+        margin-top: 20px;
+    }
+    
+    .fyc-det {
+        font-size: 14px;
+    }
+    .fyc-btn {
+        width: 220px;
+        margin: 30px auto;
+        padding: 15px 60px;
+    }
+
+    .fyc-img {
+        margin-top:60px;
+        width: 100%;
+        height: auto;
+    }
+
+    .map-head {
+        font-size: 45px;
+    }
+    
+    .map-det {
+        font-family: 'Rajdhani', sans-serif;
+    }
+
+    .wwu-btn {
+        width: 220px;
+        margin: auto;
+        padding: 15px 60px;
+    }
+    
+    .head-wwu {
+        font-size: 45px;
+    }
+
+    .head-brand {
+        font-size: 45px;
+    }
+
+    .head-sup {
+        font-size: 45px;
+    }
+    
+    .det-sup {
+        letter-spacing: 1px;
+    }
+
+    .get-know{
+        margin-top: -20px;
+        text-align: center;
+    }
+}
+
+@media(max-width:991px) {
+    .head-part {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 23px;
+        font-weight: 600;
+        margin-top: 100px;
+        text-transform: uppercase;
+    }
+
+    .tail-part {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 12px;
+    }
+
+    .ab-head {
+        margin-top: -40px;
+    }
+
+    .head-main {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 38px;
+        font-weight: 600;
+        letter-spacing: 3px;
+    }
+
+    .founder-sec {
+        flex-direction: column !important;
+        align-items: center;
+    }
+
+    .fnd-det {
+        margin-top: -20px;
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .fnd-name {
+        text-align: center;
+        font-size: 22px;
+    }
+
+    .next-head {
+        font-size: 38px;
+        letter-spacing: 3px;
+    }
+
+    .next-part {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 0px !important;
+        margin-bottom: 10px !important;
+    }
+
+    .next-img-sec {
+        margin-bottom: 20px;
+        margin-top: 80px;
+    }
+
+    .next-del {
+        font-size: 14px;
+        text-align: center;
+    }
+
+    .qu-li-1 {
+        font-size : 14px;
+    }
+
+    .line-main {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 26px;
+    }
+    
+    .author {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 14px;
+        font-weight: 600;
+    }
+
+    .head-why {
+        font-size: 38px;
+        letter-spacing: 3px;
+    }
+    
+    .head-det {
+        font-size:14px;
+    }
+
+    .fyc-sec {
+        margin-top: 60px !important;
+        margin-bottom: 60px !important;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .fyc-img {
+        width: 100%;
+        height: auto;
+        margin-top: -1px;
+    }
+
+    .map-head {
+        font-size: 38px;
+    }
+    
+    .map-det {
+        font-size:14px;
+    }
+    
+    .head-wwu {
+        font-size: 38px;
+    }
+
+    .head-brand {
+        font-size: 38px;
+    }
+
+    .head-sup {
+        font-size: 38px;
+    }
+    
+    .det-sup {
+        font-size:14px;
+    }
+
+    .ceo-part{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .ceo-msg{
+        margin-top: 5px;
+    }
+
+    .ceo-state{
+        text-align: center;
+    }
+
+    .phone-sec{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .get-order{
+        order: 1!important;
+        margin-bottom:30px;
+    }
+
+    .get-order-1{
+        order:2;
+    }
+}
+
+@media(max-width:900px) {
+    .wave-img {
+        display: none;
+    }
+
+    .ab-ban {
+        margin-bottom: 30px;
+        height: 60vh;
+        object-fit: cover;
+    }
+}
+
+@media(max-width:768px) {
+    .head-part {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 20px;
+        font-weight: 600;
+        margin-top: 100px;
+        text-transform: uppercase;
+    }
+
+    .tail-part {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 10px;
+    }
+
+    .ab-head {
+        margin-top: -50px;
+    }
+
+    .ab-img-sec {
+        margin-top: 40px;
+    }
+
+    .head-main {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 34px;
+        font-weight: 600;
+        letter-spacing: 3px;
+    }
+
+    .fnd-det {
+        margin-top: -20px;
+        text-align: center;
+        font-size: 12px;
+    }
+
+    .fnd-name {
+        text-align: center;
+        font-size: 20px;
+    }
+
+    .fnd-img {
+        width: 100%;
+        height: 400px;
+        object-fit: cover;
+    }
+
+    .next-head {
+        font-size: 34px;
+        letter-spacing: 3px;
+    }
+
+    .next-del {
+        font-size: 12px;
+    }
+
+    .qu-li-1 {
+        font-size : 12px;
+    }
+
+    .line-main {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 20px;
+    }
+    
+    .author {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+    }
+
+    .easy-return{
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .head-why {
+        font-size: 34px;
+        letter-spacing: 3px;
+    }
+    
+    .head-det {
+        font-size:12px;
+    }
+
+    .fyc-head {
+        font-size: 34px;
+        margin-top: 10px;
+    }
+    
+    .fyc-det {
+        font-size: 12px;
+    }
+    .fyc-btn {
+        width: 220px;
+        margin: 30px auto;
+        padding: 15px 40px;
+    }
+
+    .map-head {
+        font-size: 34px;
+    }
+    
+    .map-det {
+        font-size:12px;
+    }
+
+    .wwu-btn {
+        width: 220px;
+        margin: auto;
+        padding: 15px 40px;
+    }
+    
+    .head-wwu {
+        font-size: 34px;
+    }
+
+    .head-brand {
+        font-size: 34px;
+    }
+
+    .head-sup {
+        font-size: 34px;
+    }
+    
+    .det-sup {
+        font-size:12px;
+    }
+
+    .follow-us-btn {
+        width: 220px;
+        margin: 30px auto;
+        padding: 15px 40px;
+    }
+}
+
+@media(max-width:540px) {
+    .ab-ban {
+        margin-bottom: 30px;
+        height: 50vh;
+    }
+
+    .ab-img-sec {
+        margin-top: 50px;
+    }
+
+    .head-main {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 30px;
+        font-weight: 600;
+        letter-spacing: 3px;
+    }
+
+    .fnd-img {
+        width: 100%;
+        height: 360px;
+        object-fit: cover;
+    }
+
+    .next-head {
+        font-size: 30px;
+        letter-spacing: 3px;
+    }
+
+    .next-del {
+        font-size: 12px;
+    }
+
+    .quote {
+        font-size: 50px;
+    }
+
+    .qu-li-1 {
+        font-size : 10px;
+    }
+
+    .line-main {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 17px;
+    }
+    
+    .author {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 10px;
+        font-weight: 600;
+    }
+
+    .head-why {
+        font-size: 30px;
+        letter-spacing: 3px;
+    }
+    
+    .head-det {
+        font-size:12px;
+    }
+
+    .fyc-head {
+        font-size: 30px;
+    }
+    
+    .fyc-det {
+        font-size: 12px;
+    }
+    .fyc-btn {
+        width: 220px;
+        margin: 30px auto;
+        font-size: 15px;
+        padding: 15px 30px;
+    }
+
+    .map-head {
+        font-size: 30px;
+    }
+    
+    .map-det {
+        font-size:12px;
+    }
+
+    .wwu-btn {
+        width: 220px;
+        margin: auto;
+        font-size: 15px;
+        padding: 15px 30px;
+    }
+    
+    .head-wwu {
+        font-size: 30px;
+    }
+
+    .head-brand {
+        font-size: 30px;
+    }
+
+    .head-sup {
+        font-size: 30px;
+    }
+    
+    .det-sup {
+        font-size:12px;
+    }
+
+    .follow-us-btn {
+        width: 220px;
+        margin: 30px auto;
+        font-size: 15px;
+        padding: 15px 30px;
+    }
+}
+
+@media(max-width:420px) {
+    .head-part {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 16px;
+        font-weight: 600;
+        margin-top: 100px;
+        text-transform: uppercase;
+    }
+
+    .tail-part {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 8px;
+    }
+
+    .ab-img-sec {
+        margin-top: 60px;
+    }
+
+    .head-main {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 27px;
+        font-weight: 600;
+        letter-spacing: 3px;
+    }
+
+    .fnd-det {
+        margin-top: -20px;
+        text-align: center;
+        font-size: 10px;
+    }
+
+    .fnd-name {
+        text-align: center;
+        font-size: 16px;
+    }
+
+    .fnd-img {
+        width: 100%;
+        height: 340px;
+        object-fit: cover;
+    }
+
+    .next-head {
+        font-size: 27px;
+        letter-spacing: 3px;
+    }
+
+    .next-del {
+        font-size: 10px;
+    }
+
+    .head-why {
+        font-size: 27px;
+    }
+    
+    .head-det {
+        font-size:10px;
+    }
+
+    .fyc-head {
+        font-size: 27px;
+    }
+    
+    .fyc-det {
+        font-size: 10px;
+    }
+    .fyc-btn {
+        width: 180px;
+        margin: 30px auto;
+        font-size: 13px;
+        padding: 15px 20px;
+    }
+
+    .map-head {
+        font-size: 27px;
+    }
+    
+    .map-det {
+        font-size:10px;
+    }
+
+    .wwu-btn {
+        width: 180px;
+        margin: auto;
+        font-size: 13px;
+        padding: 15px 20px;
+    }
+    
+    .head-wwu {
+        font-size: 27px;
+    }
+
+    .head-brand {
+        font-size: 27px;
+    }
+
+    .head-sup {
+        font-size: 27px;
+    }
+    
+    .det-sup {
+        font-size:10px;
+    }
+
+    .follow-us-btn {
+        width: 180px;
+        margin: 30px auto;
+        font-size: 13px;
+        padding: 15px 20px;
+    }
+}
+
+@media(max-width:393px) {
+    .head-part {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 12px;
+        font-weight: 600;
+        margin-top: 100px;
+        text-transform: uppercase;
+    }
+
+    .tail-part {
+        font-family: 'Rajdhani', sans-serif;
+        font-size: 6px;
+    }
+
+    .ab-img-sec {
+        margin-top: 70px;
+    }
+}
+
+@media(max-width:360px) {
+    .head-main {
+        font-family: 'Josefin Sans', sans-serif;
+        font-size: 23px;
+        font-weight: 600;
+        letter-spacing: 3px;
+    }
+
+    .fnd-det {
+        margin-top: -20px;
+        text-align: center;
+        font-size: 8px;
+        line-height: 20px;
+    }
+
+    .fnd-name {
+        text-align: center;
+        font-size: 14px;
+    }
+
+    .fnd-img {
+        width: 100%;
+        height: 250px;
+        object-fit: cover;
+    }
+
+    .next-head {
+        font-size: 23px;
+        letter-spacing: 3px;
+    }
+
+    .next-del {
+        font-size: 8px;
+        line-height: 20px;
+    }
+
+    .head-why {
+        font-size: 23px;
+    }
+    
+    .head-det {
+        font-size:8px;
+    }
+
+    .fyc-head {
+        font-size: 23px;
+    }
+    
+    .fyc-det {
+        font-size: 8px;
+    }
+
+    .map-head {
+        font-size: 23px;
+    }
+    
+    .map-det {
+        font-size:8px;
+    }
+    
+    .head-wwu {
+        font-size: 23px;
+    }
+
+    .head-brand {
+        font-size: 23px;
+    }
+
+    .head-sup {
+        font-size: 23px;
+    }
+    
+    .det-sup {
+        font-size:8px;
+    }
+}

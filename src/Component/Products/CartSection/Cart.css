@@ -1,0 +1,321 @@
+.coupon-sec{
+    text-align: center;
+    background-color: #000;
+    color :#fff;
+    padding:5px 0;
+}
+.cart-head, .price-head{
+    text-align: center;
+}
+.head-cart, .head-price{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.cart-row{
+    border-bottom: 1px solid #ccc;
+    border-radius : 50px;
+    background-color: rgba(224, 224, 224, 0.492);
+}
+.cart-img{
+    width: 100%;
+    height: auto;
+    border-radius: 100px;
+}
+.assur-img{
+    display: inline-block!important;
+    width:80px;
+    height:30px;
+    margin-top:-5px;
+}
+
+.quant-sec{
+    background-color: rgb(54, 54, 54);
+    padding:15px 30px;
+    border-radius: 30px;
+}
+.quant{
+    text-align: right;
+}
+.quantity{
+    font-family: 'Rajdhani', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    margin-top:5px;
+    color:#fff
+}
+.quant-num{
+    display: inline-block;
+    border:1px solid #aaa;
+    width:52px;
+    height:34px;
+    padding:2px 20px;
+    border-radius: 5px;
+    font-size: 18px;
+    text-align: center;
+    color:#fff
+}
+.incre{
+    display: inline-block;
+    border:1px solid #aaa;
+    width:34px;
+    height:34px;
+    border-radius: 50%;
+    font-size: 16px;
+    padding:3px 10px;
+    text-align: center;
+    color:#fff
+}
+.incre:hover{
+    cursor: pointer;
+    background-color: rgb(255, 255, 255);
+    color:rgb(54, 54, 54);
+}
+.cutting-price{
+    text-decoration: line-through;
+}
+.off-per, .offer-applied{
+    color:#388e3c;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: 600
+}
+
+.info{
+    font-size: 17px;
+    margin-top: -3px;
+    margin-left:2px;
+}
+.incre-decre{
+    text-align: right;
+}
+
+.item-title{
+    font-family: 'Rajdhani', sans-serif;
+    font-size:18px;
+}
+.seller{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 500;
+    color:rgb(118, 118, 118);
+}
+.actual-price{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: 600;
+    font-size: 22px;
+}
+.cutting-price{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 17px;
+    color:rgb(158, 157, 157);
+}
+.re-btn{
+    font-family: 'Rajdhani', sans-serif;
+    margin-top: 48px!important;
+    margin-bottom: 48px;
+}
+
+.pri-det{
+    flex-direction: column;
+    padding:0 35px
+}
+.price{
+    font-family: 'Rajdhani', sans-serif;
+    font-size:18px;
+}
+.total-price{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 17px;
+    text-align: right;
+}
+.green{
+    color:#388e3c;
+}
+.del{
+    border-bottom:1px solid #ccc;
+}
+.price-total{
+    font-family: 'Rajdhani', sans-serif;
+    font-size:20px; 
+    font-weight: 600;
+}
+.total-price-sum{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    text-align: right;
+}
+.save-price{
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 17px;
+    color:#388e3c;
+}
+.safety-pic{
+    width:100%;
+    height: auto;
+}
+.safety-msg{
+    color:#878787;
+    font-family: 'Rajdhani', sans-serif;
+}
+
+.nthing{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 35px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.no-gif{
+    text-align: center;
+}
+
+@media(max-width:1199px){
+    .item-title{
+        font-size:16px;
+    }
+    .seller{
+        font-size:14px;
+    }
+    .assur-img{
+        width:60px;
+        height:20px;
+        margin-top:-10px;
+    }
+    .quant-sec{
+        padding:10px 22px!important;
+        border-radius: 30px;
+    }
+    .quantity{
+        font-size: 15px!important;
+        margin-top:5px;
+    }
+    .quant-num{
+        width:42px!important;
+        height:24px!important;
+        padding:0px 0px!important;
+        text-align: center!important;
+        font-size: 14px!important;
+    }
+    .incre{
+        width:26px!important;
+        height:26px!important;
+        font-size: 14px!important;
+        padding:0px 0px!important;
+    }
+}
+
+@media(max-width:991px){
+    .cart-row{
+        flex-direction: column;
+        align-items: center;
+    }
+    .item-title{
+        font-size:14px;
+        margin-top:8px;
+    }
+    .seller{
+        font-size:10px;
+    }
+    .assur-img{
+        width:40px;
+        height:15px;
+        margin-top:-16px;
+    }
+    .crt-btn{
+        font-size: 14px!important;
+    }
+    .actual-price{
+        font-size: 19px;
+        margin-top: -10px;
+    }
+    .cutting-price{
+        font-size: 13px;
+    }
+    .off-per{
+        font-size: 12px;
+    }
+    .offer-applied{
+        font-size: 12px;
+    }
+    .re-btn{
+        margin-bottom: 20px!important;
+    }
+    .price{
+        font-size:11px;
+    }
+    .total-price{
+        font-size: 13px;
+    }
+    .price-total{
+        font-size:14px; 
+    }
+    .total-price-sum{
+        font-size: 13px;
+    }
+    .save-price{
+        font-size: 14px;
+    }
+    .safety-pic{
+        width:100%;
+        height: auto;
+    }
+    .safety-msg{
+        font-size: 12px;
+    }
+    .coupon-sec{
+        font-size: 12px;
+    }
+    .price-section{
+        margin-bottom:20px!important;
+    }
+}
+
+@media(max-width:768px){
+    .cart-pro{
+        flex-direction: column;
+        align-items: center;
+    }
+    .cart-main{
+        order:2;
+    }
+    .pr-por{
+        order:1;
+    }
+    .safety-pic{
+        display: none;
+    }
+    .safety-msg{
+        display: none;
+    }
+    .re-btn{
+        margin-top:4px!important;
+    }
+    .head-cart{
+        margin-top: 15px;
+    }
+}
+
+@media(max-width:374px){
+    .quant-sec{
+        padding:6px 10px!important;
+    }
+    .quantity{
+        font-size: 13px!important;
+        margin-top:5px;
+    }
+    .crt-btn{
+        font-size: 11px!important;
+    }
+}
+
+@media(max-width:334px){
+    .quant-sec{
+        padding:4px 0px!important;
+    }
+    .crt-btn{
+        font-size: 8px!important;
+    }
+}

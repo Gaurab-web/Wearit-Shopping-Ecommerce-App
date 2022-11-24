@@ -1,0 +1,104 @@
+.up-sec{
+    border-bottom: 1px solid #aaa;
+}
+.sut-head{
+    font-family: 'Josefin Sans', sans-serif;
+}
+.search-1{
+    text-align: right;
+    margin-top:2px!important;
+}
+
+.search{
+    text-align: right;
+    margin-top:2px!important; 
+}
+
+.small-search{
+    text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 30px;
+    font-weight: 600;
+}
+.search-box{
+    position: relative;
+}
+.search-icon{
+    font-size:30px;
+    transform: translateX(-55px);
+    background-color: #fff;
+}
+.search-icon:hover{
+    cursor: pointer;
+}
+.search-form{
+    width: 50px;
+    height:50px;
+    position: relative;
+    padding: 10px 20px;
+    border-radius: 50px;
+    font-size:18px;
+    border:none;
+    outline:none;
+    transition: 300ms all ease-in-out;
+}
+.search-box{
+    position: relative;
+}
+.active{
+    width: 350px;
+    border : 1px solid #aaa;
+    outline : 0;
+}
+.pro-card{
+    height: 550px!important;
+    margin-bottom:100px!important;
+}
+.pro-img{
+    opacity: 0.8!important;
+    height:100%!important;
+    transition: 0.35s all ease-in-out;
+}
+.card-details{
+    text-align: center!important;
+    font-family: 'Rajdhani', sans-serif;
+    background: #fff!important;
+    z-index: 1;
+}
+.card-para{
+    font-size: 15px!important;
+    /* font-weight: 700!important; */
+    margin-bottom:0px;
+}
+.card-price{
+    margin-top:0px!important;
+    font-weight:900!important;
+}
+.img-over{
+    transition: 0.5s all ease-in-out;
+}
+.sub-btn{
+    position: absolute;
+    left:36%;
+    top:85%;
+    opacity: 0;
+    transition: 0.4s all ease-in-out;
+}
+.img-over:hover .sub-btn {
+    opacity: 1;
+}
+.img-over:hover{
+    background:rgba(0, 0, 0, 0.3) ;
+    cursor: pointer;
+}
+
+@media(min-width:1199px){
+    .search{
+        display: none;
+    }
+}
+@media(max-width:1199px){
+    .search-1{
+        display: none;
+    }
+}
