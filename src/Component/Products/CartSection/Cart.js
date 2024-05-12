@@ -15,7 +15,7 @@ export default function Cart() {
 
     let qty = showCart.map((data)=> data.quantity);
     
-    let [num, dispatch] = useReducer((state, action) => {    
+    let [num, dispatch] = useReducer((state, action) => {
         let qty = state[action.index];
     
         switch (action.type) {
